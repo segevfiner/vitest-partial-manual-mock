@@ -1,0 +1,20 @@
+{
+  "name": "vitest-partial-manual-mock",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Segev Finer <segev208@gmail.com>",
+  "license": "Unlicense",
+  "packageManager": "pnpm@9.2.0+sha512.98a80fd11c2e7096747762304106432b3ddc67dcf54b5a8c01c93f68a2cd5e05e6821849522a06fb76284d41a2660d5e334f2ee3bbf29183bf2e739b1dafa771",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "@types/node": "20",
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
+}
